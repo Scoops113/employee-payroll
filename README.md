@@ -6,6 +6,8 @@ This project creates a page where the user can make a list of employees organize
 ## Usage
 To use this project, click the add eemployee button on the webpage. Continue answering the prompts until you have entered the desired amount of employees. When done, press cancel. The page will load all of the data that you entered in alphabetical order. 
 
+https://scoops113.github.io/employee-payroll/
+
 ## Screenshot
 ![Alt Text](./Assets/employee-payroll-screenshot.png)
 
