@@ -1,4 +1,3 @@
-
 const addEmployeesBtn = document.querySelector('#add-employees-btn');
 
 const collectEmployees = function() {
